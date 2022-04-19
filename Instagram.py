@@ -716,6 +716,6 @@ class instagram:
 
 if __name__=='__main__':
 	try:
-		checking()
+		checkin"
 	except requests.exceptions.ConnectionError:
 		exit(f'\n [{M}!{C}] Koneksi internet bermasalah')
